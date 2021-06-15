@@ -1,0 +1,13 @@
+body{
+    background-color:lightcyan;
+    text-align: center;
+}
+
+h1{
+    border-width: 5px;
+    border-color: black;
+    border-style:dashed;
+    border-radius: 100px;
+    margin-top: 30px;
+    color:coral;
+}
